@@ -8,7 +8,8 @@ In this project we will do an analysis on a Ground-To-Aerial Matching task, we h
 
 ### Aerial and Streetview
 
-![New_input](Images/All_polar.png)
+![Aerial](Images/Aerial.png)
+![Street](Images/Streetview.png)
 
 ### Polar
 
