@@ -13,7 +13,7 @@ In this project we will do an analysis on a Ground-To-Aerial Matching task, we h
 
 ### Polar
 
-![Poalr](Images/All_polar.png)
+![Poalr](Images/Polar_Colored.png)
 
 In the [Main](CV_prokect_on_Cross_image_matching.ipynb) notebook we implemented everything else, from the dataset and model creation to the actual training and results.
 
