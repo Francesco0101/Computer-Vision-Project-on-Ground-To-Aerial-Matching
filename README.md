@@ -30,11 +30,11 @@ In the [Main](CV_prokect_on_Cross_image_matching.ipynb) notebook we implemented 
 ## Results of Best models
 
 
-| Model               | Combination  | Loss         | Top-1        | Top-1%     | Top-5    | Top-10   | Top-32     |
-|---------------------|--------------|--------------|--------------|------------|----------|----------|------------|
-| **OCTA-Polar-VGG**  | No Combine   | Triplet + CE | **44.1%**    | 80.0%      | 71.6%    | 84.4%     | **95.3%** |
-| **OCTA-Polar-VGG**  | No Combine   | CE           | 43.8%        | 79.6%      | **72.2%**| **83.8%** | 94.1%     |
-| **OCTA-Polar-VGG**  | No Combine   | Triplet      | 40.3%        | **80.6%**  | 71.8%    | **83.8%** | **95.3%** |
+| Model               | Combination  | Loss         | Top-1        | Top-1%     | Top-5    | Top-10    | Top-32    |
+|---------------------|--------------|--------------|--------------|------------|----------|-----------|-----------|
+| **OCTA-Polar-VGG**  | No Combine   | Triplet + CE | **43.9%**    | 79.6%      | **72.2%**| 83.8%     | 94.0%     |
+| **OCTA-Polar-VGG**  | No Combine   | CE           | 43.5%        | 79.9%      | 71.6%    | **84.4%** | **95.4%** |
+| **OCTA-Polar-VGG**  | No Combine   | Triplet      | 40.4%        | **80.6%**  | 71.8%    | 83.9%     | 95.3%     |
 
 
 
