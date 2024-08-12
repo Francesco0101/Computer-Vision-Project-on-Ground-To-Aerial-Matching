@@ -19,7 +19,7 @@ In the [Main](CV_prokect_on_Cross_image_matching.ipynb) notebook we implemented 
 
 ## The Best model: OCTA-Non-Combined-VGG
 
-![Diagramma del Progetto](Images/octa_standard_75.png)
+![Diagramma del Progetto](Images/octa_no_combined_polar.png)
 
 
 ## Example of matching:
