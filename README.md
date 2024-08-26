@@ -24,7 +24,7 @@ In the [Main](CV_prokect_on_Cross_image_matching.ipynb) notebook we implemented 
 
 ## Example of matching:
 
-[photo]
+![Search](Images/search.png)
 
 
 ## Results of Best models
@@ -35,6 +35,10 @@ In the [Main](CV_prokect_on_Cross_image_matching.ipynb) notebook we implemented 
 | **OCTA-Polar-VGG**  | No Combine   | Triplet + CE | **43.9%**    | 79.6%      | **72.2%**| 83.8%     | 94.0%     |
 | **OCTA-Polar-VGG**  | No Combine   | CE           | 43.5%        | 79.9%      | 71.6%    | **84.4%** | **95.4%** |
 | **OCTA-Polar-VGG**  | No Combine   | Triplet      | 40.4%        | **80.6%**  | 71.8%    | 83.9%     | 95.3%     |
+
+
+
+Link to our drive: https://drive.google.com/drive/folders/1YQcmd6ernXQmKL3St87Wu3j3eza4lTJ1?usp=sharing
 
 
 
